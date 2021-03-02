@@ -1,0 +1,10 @@
+2021-03-02 21:47:40,859 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 13864 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-02 21:47:40,879 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-02 21:47:40,880 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-02 21:47:45,689 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-02 21:47:46,345 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.905 seconds (JVM running for 7.231)
+2021-03-02 21:48:16,333 INFO c.e.d.c.UserController [http-nio-8082-exec-2] set username with cart
+2021-03-02 21:48:16,384 INFO c.e.d.c.UserController [http-nio-8082-exec-2] Added user account with cart
+2021-03-02 21:48:46,612 DEBUG c.e.d.s.JWTAuthenticationFilter [http-nio-8082-exec-4] Request is to process authentication
+2021-03-02 21:49:23,223 ERROR c.e.d.c.CartController [http-nio-8082-exec-5] Failed to remove. Item was not found with given name cart
+2021-03-02 21:49:36,859 INFO c.e.d.c.CartController [http-nio-8082-exec-6] Item was removed from the cart by cart
