@@ -23,3 +23,17 @@
 2021-03-02 22:58:02,261 INFO c.e.d.c.OrderController [http-nio-8082-exec-4] Submitted for user leo
 2021-03-02 22:58:43,081 ERROR c.e.d.c.OrderController [http-nio-8082-exec-6] Failed to get orders. UserName not found with given name jhon
 2021-03-02 22:58:49,655 INFO c.e.d.c.OrderController [http-nio-8082-exec-7] Orders for user leo
+2021-03-03 12:57:57,226 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 30848 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-03 12:57:57,234 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-03 12:57:57,235 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-03 12:58:00,039 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-03 12:58:00,581 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 3.66 seconds (JVM running for 5.238)
+2021-03-03 12:58:28,298 INFO c.e.d.c.UserController [http-nio-8082-exec-2] set username with jack
+2021-03-03 12:58:28,340 INFO c.e.d.c.UserController [http-nio-8082-exec-2] Added user account with jack
+2021-03-03 14:09:26,899 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 2780 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-03 14:09:26,907 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-03 14:09:26,908 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-03 14:09:30,506 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-03 14:09:31,231 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.642 seconds (JVM running for 6.222)
+2021-03-03 14:09:40,439 INFO c.e.d.c.UserController [http-nio-8082-exec-2] set username with jack
+2021-03-03 14:09:40,480 INFO c.e.d.c.UserController [http-nio-8082-exec-2] Added user account with jack
