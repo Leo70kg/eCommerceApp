@@ -1,0 +1,39 @@
+2021-03-02 22:49:35,679 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 9568 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-02 22:49:35,691 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-02 22:49:35,692 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-02 22:49:38,253 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-02 22:49:38,764 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 3.545 seconds (JVM running for 4.841)
+2021-03-02 22:50:23,097 INFO c.e.d.c.UserController [http-nio-8082-exec-1] set username with leo
+2021-03-02 22:50:23,141 INFO c.e.d.c.UserController [http-nio-8082-exec-1] Added user account with leo
+2021-03-02 22:50:40,828 INFO c.e.d.c.UserController [http-nio-8082-exec-3] set username with jack
+2021-03-02 22:50:40,830 ERROR c.e.d.c.UserController [http-nio-8082-exec-3] password does not meat requirements 12345
+2021-03-02 22:51:04,514 INFO c.e.d.c.UserController [http-nio-8082-exec-5] set username with jack
+2021-03-02 22:51:04,516 ERROR c.e.d.c.UserController [http-nio-8082-exec-5] password does not meat requirements 1234567
+2021-03-02 22:51:30,016 INFO c.e.d.c.UserController [http-nio-8082-exec-7] set username with jack
+2021-03-02 22:51:30,018 INFO c.e.d.c.UserController [http-nio-8082-exec-7] Added user account with jack
+2021-03-02 22:51:45,154 DEBUG c.e.d.s.JWTAuthenticationFilter [http-nio-8082-exec-8] Request is to process authentication
+2021-03-02 22:53:57,905 INFO c.e.d.c.CartController [http-nio-8082-exec-3] Item was removed from the cart by leo
+2021-03-02 22:54:26,786 INFO c.e.d.c.CartController [http-nio-8082-exec-4] Item was successfully added by leo
+2021-03-02 22:54:35,104 ERROR c.e.d.c.CartController [http-nio-8082-exec-5] Item was not found. Failed to add by leo
+2021-03-02 22:55:02,894 ERROR c.e.d.c.CartController [http-nio-8082-exec-6] Failed to remove. Item was not found with given name leo
+2021-03-02 22:56:24,275 INFO c.e.d.c.ItemController [http-nio-8082-exec-2] Get item by given id 1
+2021-03-02 22:56:50,109 ERROR c.e.d.c.ItemController [http-nio-8082-exec-10] Failed to get items by given name phone
+2021-03-02 22:57:13,528 INFO c.e.d.c.ItemController [http-nio-8082-exec-1] Get items by given name Round Widget
+2021-03-02 22:57:49,836 ERROR c.e.d.c.OrderController [http-nio-8082-exec-3] Failed to submit. UserName not found with given name john
+2021-03-02 22:58:02,261 INFO c.e.d.c.OrderController [http-nio-8082-exec-4] Submitted for user leo
+2021-03-02 22:58:43,081 ERROR c.e.d.c.OrderController [http-nio-8082-exec-6] Failed to get orders. UserName not found with given name jhon
+2021-03-02 22:58:49,655 INFO c.e.d.c.OrderController [http-nio-8082-exec-7] Orders for user leo
+2021-03-03 12:57:57,226 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 30848 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-03 12:57:57,234 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-03 12:57:57,235 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-03 12:58:00,039 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-03 12:58:00,581 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 3.66 seconds (JVM running for 5.238)
+2021-03-03 12:58:28,298 INFO c.e.d.c.UserController [http-nio-8082-exec-2] set username with jack
+2021-03-03 12:58:28,340 INFO c.e.d.c.UserController [http-nio-8082-exec-2] Added user account with jack
+2021-03-03 14:09:26,899 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-8Q55H3N with PID 2780 (D:\project\Udacity\Projects\project4\eCommerceApp\eComApp\target\classes started by Administrator in D:\project\Udacity\Projects\project4\eCommerceApp\eComApp)
+2021-03-03 14:09:26,907 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2021-03-03 14:09:26,908 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-03-03 14:09:30,506 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2021-03-03 14:09:31,231 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.642 seconds (JVM running for 6.222)
+2021-03-03 14:09:40,439 INFO c.e.d.c.UserController [http-nio-8082-exec-2] set username with jack
+2021-03-03 14:09:40,480 INFO c.e.d.c.UserController [http-nio-8082-exec-2] Added user account with jack
